@@ -4,5 +4,4 @@
 
 ## Authors
 
-* **Gianmarco Accordi**
 * **Amedeo Cavallo**
