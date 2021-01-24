@@ -7,3 +7,4 @@
 ## Authors
 
 * **Amedeo Cavallo**
+* **Gianmarco Accordi**
