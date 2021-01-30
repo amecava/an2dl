@@ -10,3 +10,4 @@
 
 * **Amedeo Cavallo**
 * **Gianmarco Accordi**
+* **Massimiliano Bonetti**
